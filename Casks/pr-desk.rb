@@ -8,6 +8,7 @@ cask "pr-desk" do
   homepage "https://github.com/pablaber/pr-desk"
 
   depends_on arch: :arm64
+  depends_on :macos
 
   app "PR Desk.app"
 end
