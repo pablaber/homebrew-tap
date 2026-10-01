@@ -1,6 +1,6 @@
 cask "pr-desk" do
-  version "1.6.0"
-  sha256 "01ecd4a959bb9bf9fcaa4fc746167f0b91d077d4d6b6019e441ad62858aedf34"
+  version "1.6.1"
+  sha256 "b06de5e4b4388329f0921d058ab47ca28ff03f9e433490eba5a00d84afed67e6"
 
   url "https://github.com/pablaber/pr-desk/releases/download/v#{version}/PR.Desk_#{version}_aarch64.dmg"
   name "PR Desk"
