@@ -7,6 +7,7 @@ cask "pr-desk" do
   desc "Pull request dashboard for GitHub"
   homepage "https://github.com/pablaber/pr-desk"
 
+  auto_updates true
   depends_on arch: :arm64
   depends_on :macos
 
